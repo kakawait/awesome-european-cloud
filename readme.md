@@ -17,7 +17,7 @@
 
 - **What do you mean by European?**
 
-When talking about Europe, there are multiple view of Europe: Europe as continent, European Union (EU), Europe Economic Area (EEA), ...
+When talking about Europe, there are multiple views of Europe: Europe as continent, European Union (EU), Europe Economic Area (EEA), ...
 
 I mainly write this _Awesome_ list with data privacy idea, thus I think we should consider _European_ as following: **every EU members + EEA members + Switzerland** <a href="#note2" id="note2ref"><sup>2</sup></a>.
 
