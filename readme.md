@@ -27,7 +27,7 @@ I mainly write this _Awesome_ list with data privacy idea, thus I think we shoul
 
 There are so much awesomeness things in Europe. It can't be listed inside single _Awesome_ list.
 
-Think about existing lists like: https://github.com/bakke92/awesome-gdpr
+Think about existing lists like: [_Awesome GDPR_](https://github.com/bakke92/awesome-gdpr)
 
 _Awesome Europe_ may be created afterward as meta list to list other _Awesome_ european related list.
 
