@@ -49,7 +49,7 @@ I'm a big fan of [_Awesome_ selfhosted](https://github.com/awesome-selfhosted/aw
 
 #### Email
 
-- [ProtonMail](https://protonmail.com/) - Secure EmailBased in Switzerland - :switzerland:.
+- [ProtonMail](https://protonmail.com/) - Secure EmailBased in Switzerland :switzerland:.
 
 ### IaaS
 
