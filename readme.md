@@ -20,9 +20,9 @@
 
 When talking about Europe, there are multiple views of Europe: Europe as continent, European Union (EU), Europe Economic Area (EEA), ...
 
-I mainly write this _Awesome_ list with data privacy idea, thus I think we should consider _European_ as following: **every EU members + EEA members + Switzerland** <a href="#note2" id="note2ref"><sup>2</sup></a>.
+I mainly write this _Awesome_ list with data privacy idea, thus I think we should consider _European_ as following: **every EU members + EEA members + Switzerland** <a href="#note1" id="note1ref"><sup>1</sup></a>.
 
-<a id="note2" href="#note2ref"><sup>2</sup></a> (French link sorry: https://www.cnil.fr/fr/la-protection-des-donnees-dans-le-monde) Switzerland is considered as adequate for EU in term of data privacy.
+<a id="note1" href="#note1ref"><sup>1</sup></a> (French link sorry: https://www.cnil.fr/fr/la-protection-des-donnees-dans-le-monde) Switzerland is considered as adequate for EU in term of data privacy.
 
 - **Why not _Awesome Europe_?**
 
