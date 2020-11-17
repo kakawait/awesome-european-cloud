@@ -55,6 +55,7 @@ I'm a big fan of [_Awesome_ selfhosted](https://github.com/awesome-selfhosted/aw
 ### IaaS
 
 - [OVH cloud](https://www.ovhcloud.com/en-ie/public-cloud/) - The OVHcloud Public Cloud offers you a large number of cloud solutions that are billed on a pay-as-you-go basis :fr:.
+- [Outscale](https://en.outscale.com/) Discover the Cloud, without limits and deploy your IT resources with agility in a legal framework that guarantees sovereignty over your data :fr:.
 
 ### PaaS
 
@@ -65,6 +66,10 @@ I'm a big fan of [_Awesome_ selfhosted](https://github.com/awesome-selfhosted/aw
 - [Tresorit](https://tresorit.com/) - end-to-end encrypted, zero-knowledge content collaboration platform designed to safeguard the digital valuables of individuals and organizations with the highest classification in the cloud :switzerland:.
 - [hubiC](https://hubic.com/) - OVH based cloud storage :fr:.
 - [Jottacloud](https://www.jottacloud.com/) - Whether you are an individual, family or business, Jottacloud lets you store, share and be productive wherever you are :norway:.
+- [pCloud](https://www.pcloud.com/eu) - Store, share and access all your files using one simple and highly secure platform, anytime and anywhere you go :switzerland:.
+- [Icedrive](https://icedrive.net/) - The next generation of cloud storage :uk:.
+- [Koofr](https://koofr.eu/) - One storage for all :de:.
+- [Wöelki](https://woelkli.com/) - Secure Cloud Storage in Switzerland. Your files encrypted, accessible from anywhere on any device :switzerland:.
 
 ## Contribute
 
