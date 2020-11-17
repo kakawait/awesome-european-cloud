@@ -1,6 +1,6 @@
 # Awesome European cloud [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome services, solutions and resources that are runnin on European cloud infrastructure.
+> A curated list of awesome services, solutions and resources that are running on European cloud infrastructure.
 
 ## Contents
 
