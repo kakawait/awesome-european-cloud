@@ -10,6 +10,7 @@
     - [Email](#email)
   - [IaaS](#iaas)
   - [PaaS](#paas)
+  - [Storage](#storage)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -58,6 +59,12 @@ I'm a big fan of [_Awesome_ selfhosted](https://github.com/awesome-selfhosted/aw
 ### PaaS
 
 - [Clever cloud](https://www.clever-cloud.com/) - Clever Cloud is an IT Automation platform. We manage all the ops work while you focus on your business value.
+
+### Storage
+
+- [Tresorit](https://tresorit.com/) - end-to-end encrypted, zero-knowledge content collaboration platform designed to safeguard the digital valuables of individuals and organizations with the highest classification in the cloud :switzerland:.
+- [hubiC](https://hubic.com/) - OVH based cloud storage :france:.
+- [Jottacloud](https://www.jottacloud.com/) - Whether you are an individual, family or business, Jottacloud lets you store, share and be productive wherever you are :norway:.
 
 ## Contribute
 
