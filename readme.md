@@ -64,7 +64,6 @@ I'm a big fan of [_Awesome_ selfhosted](https://github.com/awesome-selfhosted/aw
 ### Storage
 
 - [Tresorit](https://tresorit.com/) - end-to-end encrypted, zero-knowledge content collaboration platform designed to safeguard the digital valuables of individuals and organizations with the highest classification in the cloud :switzerland:.
-- [hubiC](https://hubic.com/) - OVH based cloud storage :fr:.
 - [Jottacloud](https://www.jottacloud.com/) - Whether you are an individual, family or business, Jottacloud lets you store, share and be productive wherever you are :norway:.
 - [pCloud](https://www.pcloud.com/eu) - Store, share and access all your files using one simple and highly secure platform, anytime and anywhere you go :switzerland:.
 - [Icedrive](https://icedrive.net/) - The next generation of cloud storage :uk:.
