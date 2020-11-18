@@ -57,6 +57,7 @@ I'm a big fan of [_Awesome_ selfhosted](https://github.com/awesome-selfhosted/aw
 - [OVH cloud](https://www.ovhcloud.com/en-ie/public-cloud/) - The OVHcloud Public Cloud offers you a large number of cloud solutions that are billed on a pay-as-you-go basis :fr:.
 - [Outscale](https://en.outscale.com/) - Discover the Cloud, without limits and deploy your IT resources with agility in a legal framework that guarantees sovereignty over your data :fr:.
 - [Scaleway](https://www.scaleway.com/) - The Cloud that makes sense :fr:.
+- [Hetzner Cloud](https://www.hetzner.com/cloud/) - Truly thrifty cloud hosting :de:.
 
 ### PaaS
 
