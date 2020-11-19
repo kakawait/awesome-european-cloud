@@ -1,4 +1,4 @@
-# Awesome European cloud [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome European cloud :eu: [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome services, solutions and resources that are running on European cloud infrastructure.
 
@@ -8,6 +8,7 @@
 - [Services](#services)
   - [Communication systems](#communication-systems)
     - [Email](#email)
+  - [DaaS](#daas)
   - [IaaS](#iaas)
   - [PaaS](#paas)
   - [Storage](#storage)
@@ -51,6 +52,10 @@ I'm a big fan of [_Awesome_ selfhosted](https://github.com/awesome-selfhosted/aw
 #### Email
 
 - [ProtonMail](https://protonmail.com/) - Secure EmailBased in Switzerland :switzerland:.
+
+### DaaS
+
+- [Shadow](https://shadow.tech/) - Your new PC is in the Cloud. Shadow is a high-end gaming PC accessible from all your devices to play the PC games you own :fr:.
 
 ### IaaS
 
