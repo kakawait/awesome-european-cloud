@@ -63,6 +63,7 @@ I'm a big fan of [_Awesome_ selfhosted](https://github.com/awesome-selfhosted/aw
 - [Outscale](https://en.outscale.com/) - Discover the Cloud, without limits and deploy your IT resources with agility in a legal framework that guarantees sovereignty over your data :fr:.
 - [Scaleway](https://www.scaleway.com/) - The Cloud that makes sense :fr:.
 - [Hetzner Cloud](https://www.hetzner.com/cloud/) - Truly thrifty cloud hosting :de:.
+- [Exoscale Cloud Hosting](https://www.exoscale.com/) - Datacenters in Germany, Austria & Switzerland :switzerland:.
 
 ### PaaS
 
