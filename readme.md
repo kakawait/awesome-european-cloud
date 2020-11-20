@@ -52,6 +52,8 @@ I'm a big fan of [_Awesome_ selfhosted](https://github.com/awesome-selfhosted/aw
 #### Email
 
 - [ProtonMail](https://protonmail.com/) - Secure EmailBased in Switzerland :switzerland:.
+- [Infomaniak](https://www.infomaniak.com/en/free-email) - Developped and hosted in Switzerland :switzerland:.
+
 
 ### DaaS
 
