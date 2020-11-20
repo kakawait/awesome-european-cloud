@@ -52,8 +52,6 @@ I'm a big fan of [_Awesome_ selfhosted](https://github.com/awesome-selfhosted/aw
 #### Email
 
 - [ProtonMail](https://protonmail.com/) - Secure EmailBased in Switzerland :switzerland:.
-- [Infomaniak](https://www.infomaniak.com/en/free-email) - Developped and hosted in Switzerland :switzerland:.
-
 
 ### DaaS
 
@@ -65,6 +63,7 @@ I'm a big fan of [_Awesome_ selfhosted](https://github.com/awesome-selfhosted/aw
 - [Outscale](https://en.outscale.com/) - Discover the Cloud, without limits and deploy your IT resources with agility in a legal framework that guarantees sovereignty over your data :fr:.
 - [Scaleway](https://www.scaleway.com/) - The Cloud that makes sense :fr:.
 - [Hetzner Cloud](https://www.hetzner.com/cloud/) - Truly thrifty cloud hosting :de:.
+- [Infomaniak](https://www.infomaniak.com/en/hosting/dedicated-and-cloud-servers/cloud-server) - Linux or Windows SSD cloud server :switzerland:.
 
 ### PaaS
 
