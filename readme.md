@@ -51,6 +51,7 @@ I'm a big fan of [_Awesome_ selfhosted](https://github.com/awesome-selfhosted/aw
 
 #### Email
 
+- [Mailo](https://www.mailo.com/) - Mailo is a whole range of innovative services which protect your privacy and personal data: the most complete webmail on the market, an agenda, a storage space for your photos and documents, organisation tools for the family and professionals. Join the first alternative ethical communication platform! :fr:.
 - [ProtonMail](https://protonmail.com/) - Secure EmailBased in Switzerland :switzerland:.
 
 ### DaaS
