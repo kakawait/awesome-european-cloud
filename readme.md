@@ -6,6 +6,7 @@
 
 - [Frequently Asked Questions](#frequently-asked-questions)
 - [Services](#services)
+  - [Analytics](#analytics)
   - [Communication systems](#communication-systems)
     - [Email](#email)
   - [DaaS](#daas)
@@ -46,6 +47,10 @@ That mean, we can't accept service build & develop in Europe but run on _AWS_, _
 I'm a big fan of [_Awesome_ selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) and [free for dev](https://github.com/ripienaar/free-for-dev). Authors of those lists already did a great job to categorize services. We should use something close to their structure (or simplified if relevant).
 
 ## Services
+
+### Analytics
+
+- [Matomo](https://matomo.org/) - Take back control with Matomo – a powerful web analytics platform that gives you 100% data ownership :fr:.
 
 ### Communication systems
 
