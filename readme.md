@@ -9,6 +9,7 @@
   - [Analytics](#analytics)
   - [Communication systems](#communication-systems)
     - [Email](#email)
+    - [Marketing](#marketing)
   - [DaaS](#daas)
   - [IaaS](#iaas)
   - [PaaS](#paas)
@@ -57,7 +58,11 @@ I'm a big fan of [_Awesome_ selfhosted](https://github.com/awesome-selfhosted/aw
 #### Email
 
 - [Mailo](https://www.mailo.com/) - Mailo is a whole range of innovative services which protect your privacy and personal data: the most complete webmail on the market, an agenda, a storage space for your photos and documents, organisation tools for the family and professionals. Join the first alternative ethical communication platform! :fr:.
-- [ProtonMail](https://protonmail.com/) - Secure EmailBased in Switzerland :switzerland:.
+- [ProtonMail](https://protonmail.com/) - Secure Email based in Switzerland :switzerland:.
+
+#### Marketing
+
+- [SendInBlue](https://www.sendinblue.com/) - Sendinblue is the smartest and most intuitive platform for growing businesses. Whether you need to manage email campaigns, send text messages, or save time with automation, we can help you do it efficiently, on-budget, and in your language.
 
 ### DaaS
 
