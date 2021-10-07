@@ -75,7 +75,7 @@ I'm a big fan of [_Awesome_ selfhosted](https://github.com/awesome-selfhosted/aw
 
 ### Maps
 
-- [MapTiler](https://maptiler.fr/) - Le cloud géographique, déployé en France. Plateforme pour la création de cartes et de géoservices. :switzerland:
+- [MapTiler](https://maptiler.fr/) - Software mapping platform for developers building websites and mobile apps. :switzerland:
 
 ### PaaS
 
