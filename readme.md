@@ -84,6 +84,7 @@ I'm a big fan of [_Awesome_ selfhosted](https://github.com/awesome-selfhosted/aw
 
 ### Storage
 
+- [Arzen](https://arzen.tech/) - A cloud storage to efficiently and easily protect your data against external threats with the innovative combination of multi-cloud and end-to-end encryption :fr:.
 - [Icedrive](https://icedrive.net/) - The next generation of cloud storage :uk:.
 - [Jottacloud](https://www.jottacloud.com/) - Whether you are an individual, family or business, Jottacloud lets you store, share and be productive wherever you are :norway:.
 - [Koofr](https://koofr.eu/) - One storage for all :de:.
