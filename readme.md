@@ -9,6 +9,7 @@
   - [Analytics](#analytics)
   - [Communication systems](#communication-systems)
     - [Email](#email)
+    - [Marketing](#marketing)
   - [DaaS](#daas)
   - [IaaS](#iaas)
   - [Maps](#maps)
@@ -59,6 +60,10 @@ I'm a big fan of [_Awesome_ selfhosted](https://github.com/awesome-selfhosted/aw
 
 - [Mailo](https://www.mailo.com/) - Mailo is a whole range of innovative services which protect your privacy and personal data: the most complete webmail on the market, an agenda, a storage space for your photos and documents, organisation tools for the family and professionals. Join the first alternative ethical communication platform! :fr:.
 - [ProtonMail](https://protonmail.com/) - Secure EmailBased in Switzerland :switzerland:.
+
+#### Marketing
+
+- [Tipimail](https://www.tipimail.com/) - Focus on your business, we'll take care of your emails. Rely on our smtp api and have your emails delivered :fr:.
 
 ### DaaS
 
