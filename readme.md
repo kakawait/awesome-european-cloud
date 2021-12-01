@@ -74,6 +74,7 @@ I'm a big fan of [_Awesome_ selfhosted](https://github.com/awesome-selfhosted/aw
 - [Exoscale Cloud Hosting](https://www.exoscale.com/) - Datacenters in Germany, Austria & Switzerland :switzerland:.
 - [Hetzner Cloud](https://www.hetzner.com/cloud/) - Truly thrifty cloud hosting :de:.
 - [Infomaniak](https://www.infomaniak.com/en/hosting/dedicated-and-cloud-servers/cloud-server) - Linux or Windows SSD cloud server :switzerland:.
+- [Nua.ge](https://nua.ge/) - Nua.ge is an IaaS cloud service, designed for demanding and pragmatic users for whom performance is not synonymous with complexity. :fr:.
 - [Outscale](https://en.outscale.com/) - Discover the Cloud, without limits and deploy your IT resources with agility in a legal framework that guarantees sovereignty over your data :fr:.
 - [OVH cloud](https://www.ovhcloud.com/en-ie/public-cloud/) - The OVHcloud Public Cloud offers you a large number of cloud solutions that are billed on a pay-as-you-go basis :fr:.
 - [Scaleway](https://www.scaleway.com/) - The Cloud that makes sense :fr:.
