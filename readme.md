@@ -64,6 +64,7 @@ I'm a big fan of [_Awesome_ selfhosted](https://github.com/awesome-selfhosted/aw
 #### Marketing
 
 - [Tipimail](https://www.tipimail.com/) - Focus on your business, we'll take care of your emails. Rely on our smtp api and have your emails delivered :fr:.
+- [Mailify/Sarbacane](https://www.mailify.com/) - Email, SMS Marketing & Automation software. Tailor-made support for successful campaigns :fr:.
 
 ### DaaS
 
